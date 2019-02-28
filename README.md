@@ -1,4 +1,4 @@
-[SICP Reading Group] - [Talks]
+# SICP Reading Group - Talks
 ================
 [Open Issues](https://github.com/sicp-reading-group/Talks/issues?q=is%3Aopen+)
 
